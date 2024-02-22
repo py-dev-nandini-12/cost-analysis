@@ -1,0 +1,6 @@
+cost,currency,usage_quantity,provider,region_code,product,account,year,month,day
+700,USD,6254321,csv,us-west-2,AmazonS3,987654321,2023,10,1
+200,USD,456789,csv,eu-central-1,AmazonRDS,987654321,2023,10,2
+600,USD,9876543,csv,us-east-1,AmazonLambda,987654321,2023,10,3
+150,USD,123456,csv,ap-southeast-1,AmazonDynamoDB,987654321,2023,10,4
+250,USD,789012,csv,eu-west-1,AmazonSNS,987654321,2023,10,5

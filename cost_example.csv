@@ -1,0 +1,6 @@
+cost,currency,usage_quantity,provider,region_code,product,account,year,month,day
+150,USD,123456,civo,lon1,Compute Instance,876543210,2024,1,1
+50,USD,78901,civo,nyc1,Block Storage,876543210,2023,12,2
+120,USD,345678,civo,sgp1,Kubernetes Cluster,876543210,2024,2,3
+30,USD,98765,civo,sfo2,Object Storage,876543210,2023,12,4
+80,USD,456789,civo,ams3,Load Balancer,876543210,2023,12,5
